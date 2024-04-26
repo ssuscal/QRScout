@@ -1,6 +1,7 @@
-export function Logo() {
-  return (
-    <svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
  width="900.000000pt" height="234.000000pt" viewBox="0 0 900.000000 234.000000"
  preserveAspectRatio="xMidYMid meet">
 <metadata>
@@ -132,5 +133,3 @@ c38 -38 7 -134 -44 -134 -50 0 -80 91 -43 132 20 22 66 24 87 2z"/>
 14 70 35 70 67 0 30 8 41 30 37 11 -3 15 -17 15 -60z"/>
 </g>
 </svg>
-  );
-}
