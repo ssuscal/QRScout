@@ -1,7 +1,7 @@
 {
   "$schema": "../schema.json",
   "title": "QRScout",
-  "page_title": "Crescendo",
+  "page_title": "Ossining O-Bots",
   "sections": [
     {
       "name": "Prematch",
@@ -11,6 +11,7 @@
           "title": "Scouter Initials",
           "type": "text",
           "required": true,
+          "preserveDataOnReset": true,
           "code": "scouter"
         },
         {
